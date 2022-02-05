@@ -16,6 +16,7 @@
 <a href="https://github.com/kanchimatsumoto" target="_blank">Github</a>
 <a href="https://twitter.com/kanch_070707" target="_blank">Twitter</a>
 <a href="https://qiita.com/ka-matsumoto" target="_blank">Qiita</a>
+<a href="https://www.wantedly.com/id/kanchimatsumoto0707" target="_blank">Wantedly</a>
 </p>
 
 
