@@ -2,20 +2,21 @@
 
 ## 基本情報
 
-|key|value|
-|---|---|
-|氏名|松本寛地（Kanchi Matsumoto）|
-|生年月日|1993/09/20|
-|居住地|東京都|
-|最終学歴|関西学院大学総合政策学部|
+|key| value                  |
+|---|------------------------|
+|氏名| 松本寛地（Kanchi Matsumoto） |
+|生年月日| 1993/09/20             |
+|居住地| 東京都                    |
+|最終学歴| 関西学院大学 総合政策学部          |
 
 ---
 
 ## 各種アカウント
 <p>
-<a href="https://github.com/kanchimatsumoto" target="_blank"><img alt="Github" src="../img/Octocat.jpg" width="90px" height="90px" /></a>
-<a href="https://twitter.com/kanch_070707" target="_blank"><img alt="Twitter" src="../img/Twitter.svg" width="90px" height="90px" /></a>
-<a href="https://qiita.com/ka-matsumoto" target="_blank"><img alt="Medium" src="../img/Qiita.jpeg" width="90px" height="90px" /></a>
+<a href="https://github.com/kanchimatsumoto" target="_blank">Github</a>
+<a href="https://twitter.com/kanch_070707" target="_blank">Twitter</a>
+<a href="https://qiita.com/ka-matsumoto" target="_blank">Qiita</a>
+<a href="https://www.wantedly.com/id/kanchimatsumoto0707" target="_blank">Wantedly</a>
 </p>
 
 
