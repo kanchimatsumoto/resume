@@ -1,8 +1,10 @@
-# { name } resume
+# Kanchi Matsumoto resume
 
-## Sample
+松本 寛地の職務経歴書ページです
 
-https://github.com/kawamataryo/resume
+## Resume Page
+
+https://kanchimatsumoto.github.io/resume/
 
 ## Features
 
@@ -38,10 +40,3 @@ $ git commit -m "add job"
 $ git tag v1.0
 $ git push origin --tags
 ```
-
-### 📆 Remind update
-
-Automatically generate issues every three months with GitHub Actions Schedules triggers to prompt you to update your resume.
-
-To change the duration or stop the job, edit `.github/workflows/create-issue.yml`.  
-To change the issue contents, edit `.github/ISSUE_TEMPLATE.md`.
