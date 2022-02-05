@@ -1,6 +1,7 @@
 # Kanchi Matsumoto resume
 
 松本 寛地の職務経歴書ページです
+[川俣さんの](https://zenn.dev/ryo_kawamata/articles/resume-on-github)を参考にさせていただきました。（パクリ）
 
 ## Resume Page
 
